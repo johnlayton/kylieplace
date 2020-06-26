@@ -1,0 +1,21 @@
+# --- Intellij ---
+/*.iml
+/.gradle
+/.idea
+
+# --- Eclipse ---
+/.settings
+/.classpath
+/.project
+
+# --- Mac ---
+
+.DS_Store
+
+# --- Build ---
+
+/build
+/out
+/bin
+
+*/build
