@@ -7,3 +7,4 @@ pluginManagement {
 rootProject.name = "kylieplace"
 
 includeBuild("../amberleyway")
+includeBuild("../riverhilldrive")

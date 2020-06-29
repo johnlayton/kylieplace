@@ -9,7 +9,7 @@ plugins {
 }
 
 val amberleyway: (IncludedBuild) -> Boolean = {
-  it.name.matches(Regex("amberleyway"))
+  it.name.matches(Regex("amberleyway|riverhilldrive"))
 }
 
 /*
